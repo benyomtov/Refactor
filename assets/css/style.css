@@ -51,13 +51,10 @@ a {
 }
 
 /*main picture*/
-.hero {
-    height: 800px;
+.main-img {
     width: 100%;
+    height: auto;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 /*formatting for main section*/
