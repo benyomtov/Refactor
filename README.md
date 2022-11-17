@@ -5,15 +5,14 @@ This is a website for a search engine optimization company called Horiseon. It c
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+This is a web application live at https://benyomtov.github.io/Refactor
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This web application can be used to learn more about search engine optimization. The three links in the header (search engine optimization, online reputation management, and social media marketing) can be clicked to get more information on these topics.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![screenshot top](/assets/images/screenshot-top.png)
+![screenshot bottom](/assets/images/screenshot-bottom.png)
 
 ## Credits
 Code supplied by Rutgers Full-Stack Bootcamp
